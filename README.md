@@ -1,16 +1,27 @@
-### Hi there 👋
+### Boas vindas ao meu perfil!
 
-<!--
-**TinyHero13/TinyHero13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Yasmim Abrahão e sou uma estudante da área de informática. Sou do Brasil e atualmente estudo no CEFET/RJ como técnica de informática. Você pode me achar tanto no discord: Kera#6548, quanto na steam: 183314630.
 
-Here are some ideas to get you started:
+Curto completar alguns desafios no CodeWars de vez em quando relacionados a python: ![CodeWars badge](https://www.codewars.com/users/TinyHero13/badges/micro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Linguagens preferidas:
+* Python
+* React.JS
+* PHP
+
+## 📚 Atualmente aprendendo:
+* Java
+* Javascript
+* Firebase
+* GDScript
+
+## 🔧 Tecnologias e ferramentas
+![](https://img.shields.io/badge/Editor-Visual%20Code-blue)
+![](https://img.shields.io/badge/OS-Linux-blue)
+![](https://img.shields.io/badge/OS-Windows-blue)
+![](https://img.shields.io/badge/Code-Python-blue)
+![](https://img.shields.io/badge/Code-PHP-blue)
+![](https://img.shields.io/badge/Tools-MySql-blue)
+
+## 📈 GitHub Status
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TinyHero13)](https://github.com/TinyHero13/github-readme-stats)
