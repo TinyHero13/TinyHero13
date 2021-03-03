@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil!
+### 🖖 Boas vindas ao meu perfil!
 
 Eu sou Yasmim Abrahão e sou uma estudante da área de informática. Sou do Brasil e atualmente estudo no CEFET/RJ como técnica de informática. Você pode me achar tanto no discord: Kera#6548, quanto na steam: 183314630.
 
