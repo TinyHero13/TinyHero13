@@ -1,6 +1,6 @@
 ### 🖖 Boas vindas ao meu perfil!
 
-Eu sou Yasmim Abrahão, sou do Brasil e atualmente estudo no CEFET/RJ como técnica de informática. Você pode me achar tanto no discord: Kera#6548, quanto na steam: 183314630.
+Eu sou Yasmim Abrahão, sou do Brasil e atualmente sou técnica de informática pelo CEFET/RJ e estarei cursando computação no CEDERJ.
 
 Curto completar alguns desafios no CodeWars de vez em quando relacionados a python: ![CodeWars badge](https://www.codewars.com/users/TinyHero13/badges/micro)
 
@@ -12,7 +12,6 @@ Curto completar alguns desafios no CodeWars de vez em quando relacionados a pyth
 ## 📚 Atualmente aprendendo:
 * Java
 * Javascript
-* Firebase
 * GDScript
 
 ## 🔧 Tecnologias e ferramentas
