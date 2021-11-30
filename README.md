@@ -7,12 +7,11 @@ Curto completar alguns desafios no CodeWars de vez em quando relacionados a pyth
 ## 💻 Linguagens preferidas:
 * Python
 * React.JS
-* PHP
 
 ## 📚 Atualmente aprendendo:
 * Java
 * Javascript
-* GDScript
+* CSS
 
 ## 🔧 Tecnologias e ferramentas
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue)
