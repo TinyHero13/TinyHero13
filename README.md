@@ -1,7 +1,5 @@
 ### 🖖 Boas vindas ao meu perfil!
 
-Curto completar alguns desafios no CodeWars de vez em quando relacionados a python: ![CodeWars badge](https://www.codewars.com/users/TinyHero13/badges/micro)
-
 ## 💻 Linguagens preferidas:
 * Python
 * React.JS
