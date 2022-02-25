@@ -1,7 +1,5 @@
 ### 🖖 Boas vindas ao meu perfil!
 
-Eu sou Yasmim Abrahão, sou do Brasil e atualmente sou técnica de informática pelo CEFET/RJ e estarei cursando computação no CEDERJ.
-
 Curto completar alguns desafios no CodeWars de vez em quando relacionados a python: ![CodeWars badge](https://www.codewars.com/users/TinyHero13/badges/micro)
 
 ## 💻 Linguagens preferidas:
