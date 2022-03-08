@@ -1,13 +1,6 @@
 ### 🖖 Boas vindas ao meu perfil!
+Estudante de Sistemas e Computação pela UFF. Desenvolvedora Front-end Junior e aspirante a UI/UX Designer. Veja alguns dos meus projetos.
 
-## 💻 Linguagens preferidas:
-* Python
-* React.JS
-
-## 📚 Atualmente aprendendo:
-* Java
-* Javascript
-* CSS
 
 ## 🔧 Tecnologias e ferramentas
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue)
