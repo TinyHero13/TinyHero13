@@ -14,7 +14,8 @@
 
 
 ## 🔧 Me siga nas redes sociais!
-<a href="https://github.com/TinyHero13"><img src="https://img.shields.io/github/followers/TinyHero13?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+<a href="https://github.com/TinyHero13"><img src="https://img.shields.io/github/followers/TinyHero13?style=social" /></a>
+<a href="https://github.com/TinyHero13">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 ## 📈 GitHub Status
