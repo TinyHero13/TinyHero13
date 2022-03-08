@@ -14,7 +14,7 @@
 
 
 ## 🔧 Me siga nas redes sociais!
-<a href="https://github.com/TinyHero13"><img src="/github/followers/:TinyHero13?label=Follow" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+<a href="https://github.com/TinyHero13"><img src="https://img.shields.io/github/followers/TinyHero13?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp
 
 
 ## 📈 GitHub Status
