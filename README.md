@@ -1,6 +1,7 @@
 ## 👋 Olá! Boas-vindas ao meu perfil do GitHub!
 ### Meu nome é Yasmim Abrahão.
 
+
 ## 🔧 Tecnologias e ferramentas
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40px" width="40px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40px" width="40px" /></code>
@@ -10,6 +11,10 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40px" width="40px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40px" width="40px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40px" width="40px" /></code>
+
+
+## 🔧 Me siga nas redes sociais!
+<a href="https://github.com/TinyHero13"><img src="/github/followers/:TinyHero13?label=Follow" /></a>&nbsp;&nbsp;&nbsp;&nbsp
 
 
 ## 📈 GitHub Status
