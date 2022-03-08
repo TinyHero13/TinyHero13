@@ -2,7 +2,7 @@
 ### Meu nome é Yasmim Abrahão.
 
 ## 🔧 Tecnologias e ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="50px" />
 
 ![](https://img.shields.io/badge/Editor-NetBeans-blue)
 ![](https://img.shields.io/badge/OS-Linux-blue)
