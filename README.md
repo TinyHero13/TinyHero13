@@ -25,9 +25,9 @@
 - 👨‍💻 All of my projects are available at [GitHub - Repositories](https://github.com/TinyHero13?tab=repositories)
 
 ## 📈 GitHub Status
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinyhero13&show_icons=true&locale=en&layout=compact" alt="tinyhero13" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinyhero13&show_icons=true&locale=en&layout=compact" alt="tinyhero13" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=tinyhero13&show_icons=true&locale=en" alt="tinyhero13" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tinyhero13&show_icons=true&locale=en" alt="tinyhero13" /></p>
 
 
 
