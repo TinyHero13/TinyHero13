@@ -27,7 +27,7 @@
 ## 📈 GitHub Status
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinyhero13&show_icons=true&locale=en&layout=compact" alt="tinyhero13" width="320px" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tinyhero13&show_icons=true&locale=en" alt="tinyhero13" width="320px" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tinyhero13&show_icons=true&locale=en" alt="tinyhero13" width="300px" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyhero13&" alt="tinyhero13" width="320px" /></p>
 
