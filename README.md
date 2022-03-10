@@ -1,8 +1,7 @@
-## 👋 Olá! Boas-vindas ao meu perfil do GitHub!
-### Meu nome é Yasmim Abrahão.
+<h1 align="center">Hi 👋, I'm Yasmim Abrahão</h1>
+<h3 align="center">A Front-end developer junior that makes some projects and love tecnhology.</h3>
 
-
-## 🔧 Tecnologias e ferramentas
+## 🔧 Languages and Tools:
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40px" width="40px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40px" width="40px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px" /></code>
@@ -13,13 +12,23 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40px" width="40px" /></code>
 
 
-## 🔧 Me siga nas redes sociais!
-<a href="https://github.com/TinyHero13"><img src="https://img.shields.io/github/followers/TinyHero13?style=social" /></a>
-<a href="https://github.com/TinyHero13">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+## 🔧 Connect with me:
+<p align="center">
+<a href="https://twitter.com/yasmim_abrahao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasmim_abrahao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yasmim-abrahão-311491227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasmim-abrahão-311491227/" height="30" width="40" /></a>
+<a href="https://instagram.com/@yasmim_abrahao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yasmim_abrahao" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/yasmimabrahao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/yasmimabrahao" height="30" width="40" /></a>
+<a href="https://discord.gg/kera#5213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kera#5213" height="30" width="40" /></a>
+</p>
 
+- 👨‍💻 All of my projects are available at [GitHub - Repositories](https://github.com/TinyHero13?tab=repositories)
 
 ## 📈 GitHub Status
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TinyHero13)](https://github.com/TinyHero13/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinyhero13&show_icons=true&locale=en&layout=compact" alt="tinyhero13" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinyhero13&show_icons=true&locale=en" alt="tinyhero13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyhero13&" alt="tinyhero13" /></p>
 
 
 ![Snake animation](https://github.com/TinyHero13/TinyHero13/blob/output/github-contribution-grid-snake.svg)
