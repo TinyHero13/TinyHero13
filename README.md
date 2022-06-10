@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmim Abrahão</h1>
-<h3 align="center">I'm a Front-end developer junior that makes some projects and love tecnhology.</h3>
+<h3 align="center">I'm studying to be a data scientist that makes some projects and love tecnhology.</h3>
 
 ## 🔧 Languages and Tools:
 <p align="center">
