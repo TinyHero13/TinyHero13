@@ -3,7 +3,7 @@
 My biggest goal is to work as a Data Engineer, applying everything I’ve learned in integrations and automations, helping companies scale their operations and make more strategic decisions.
 </h3>
 
-## Certifications
+## 🎖️ Certifications
 <p align="center">
 <code><a href="https://www.credly.com/badges/31257e51-266f-458a-9821-4b2db420d94d/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="90px" width="90px" /></a></code>
 <code><a href="https://www.credly.com/badges/679fd803-8dae-41a3-a1e8-3d6dbacce5d4/public_url"><img src="https://www.astronomer.io/archive/3LZZnNIdWg9xSft8AXYdsU/5c57c49fff74cac96428f4b615b815cc/astronomer_rebranded_certbadge2.png" height="90px" width="99px" /></a></code>
@@ -22,7 +22,7 @@ My biggest goal is to work as a Data Engineer, applying everything I’ve learne
 <code><img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" height="60px" width="90px" /></code>
 </p>
 
-## Socials
+## 🌎 Socials
 - [Portfolio](https://yasmim-portifolio.vercel.app)
 - [Linkedin](https://www.linkedin.com/in/yasmim-abrahao/)
 - [My repositories](https://github.com/TinyHero13?tab=repositories)
