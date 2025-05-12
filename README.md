@@ -5,6 +5,7 @@ My biggest goal is to work as a Data Engineer, applying everything I’ve learne
 
 ## 🎖️ Certifications
 <p align="center">
+<code><a href="https://www.credly.com/badges/4574b056-6286-4ab7-be26-17085ebf05fe/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="90px" width="90px" /></a></code>
 <code><a href="https://www.credly.com/badges/31257e51-266f-458a-9821-4b2db420d94d/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="90px" width="90px" /></a></code>
 <code><a href="https://www.credly.com/badges/679fd803-8dae-41a3-a1e8-3d6dbacce5d4/public_url"><img src="https://www.astronomer.io/archive/3LZZnNIdWg9xSft8AXYdsU/5c57c49fff74cac96428f4b615b815cc/astronomer_rebranded_certbadge2.png" height="90px" width="99px" /></a></code>
 </p>
