@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasmim Abrahão</h1>
-<h3 >I’m passionate about technology, always looking to learn more and transform data into smart solutions. I am currently studying Computer Systems at the Universidade Federal Fluminense, and from an early age, I recognized the power of data in shaping decisions. I currently work as a BI Assistant at Licks Attorneys, where I create interactive dashboards in Power BI and develop data pipelines in Python, connecting and manipulating data with SQL and APIs.
-My biggest goal is to work as a Data Engineer, applying everything I’ve learned in integrations and automations, helping companies scale their operations and make more strategic decisions.
+<h3 >Data Engineer with a degree in Computer Systems from Fluminense Federal University (UFF). I build scalable data pipelines, automate ETL/ELT workflows, and deploy data infrastructure across AWS, Azure, and GCP.
+I work across the full data stack, from ingestion and transformation to orchestration and BI, using tools like Databricks, Apache Airflow, dbt, Dagster, and Power BI. I focus on clean, maintainable architectures that turn raw data into reliable business assets.
 </h3>
 
 ## 🎖️ Certifications
