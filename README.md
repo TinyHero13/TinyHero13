@@ -5,7 +5,6 @@ I work across the full data stack, from ingestion and transformation to orchestr
 
 ## 🎖️ Certifications
 <p align="center">
-  <code><a href="https://verify.skilljar.com/c/5auotkki8tuj"><img src="https://cc.sj-cdn.net/certificate/oa14wvkjuau6/certificate-5auotkki8tuj-1776313890.jpg?Expires=1776612340&Signature=NCHu3bWQEJ8nvMAd6wFZtCeo1ORmEq0WUGylPcSk-wH1c3dYFpQ7m5MXFR2nSzvxG1U1xNTzq2fyBVGRDuKVor2gP~Birj18moaWUkuIG-R8WMZ~3j7Ty1f3CAOVuJdqdxvugLlP63NkTbh05657TI1bLuE-1cRXw~wim06-LccTr7AAGvCEL-S-NG5~lKBWF-KoRA~UW10gP304UOYnv2v20DoihJHVGjpldd8PuvmGCtUWw~i5RcnVKKEOvQC~ISqdeoadJqRfUlSwU47LRzBD5223WIbXNFKevjfoRUasXD1G8I8qZs66jk9FRz4of9TFxrjsa9c3lwPSqJ6e9A__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" height="90px" width="90px" /></a></code>
 <code><a href="https://learn.microsoft.com/api/credentials/share/pt-br/YasmimAbrahoCharlesLima-7652/B7445A7E801A0A2E?sharingId=329B0CDD3F465B69"><img src="https://blog.clearcatnet.com/wp-content/uploads/2025/05/DP-700-1-e1748002960114.png" height="90px" width="90px" /></a></code>
   <code><a href="https://learn.microsoft.com/api/credentials/share/pt-br/YasmimAbrahoCharlesLima-7652/FF4DCB83BEC05257?sharingId=329B0CDD3F465B69"><img src="https://vel.co.jp/wp-content/uploads/2025/02/Fabric-Analytics-Engineer-Associate-Badge.png" height="90px" width="90px" /></a></code>
 <code><a href="https://www.credly.com/badges/5e856088-e294-4604-a3cf-77913806a55f/public_url"><img src="https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" height="90px" width="90px" /></a></code>
